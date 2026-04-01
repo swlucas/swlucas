@@ -1,6 +1,6 @@
 ## 👋 Olá! Eu sou o Lucas Pereira
 
-Desenvolvedor de software apaixonado por escrever **códigos reutilizáveis e escaláveis**. Com mais de **7 anos de experiência** em desenvolvimento **web e mobile**, ajudo empresas a transformar ideias em produtos digitais de alto impacto.
+Desenvolvedor de software apaixonado por escrever **códigos reutilizáveis e escaláveis**. Com mais de **10 anos de experiência** em desenvolvimento **web e mobile**, ajudo empresas a transformar ideias em produtos digitais de alto impacto.
 
 Atualmente atuo como **Desenvolvedor Full Stack**, com foco em **React**, **React Native**, **Node.js** e **NestJS**, entregando soluções modernas, performáticas e com código limpo.
 
